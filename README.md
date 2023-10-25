@@ -1,0 +1,2 @@
+# DSGE-Modeling-Using-Julia
+I used Julia to solve the Stochastic Neoclassical Growth Model's planner problem. I applied the Value Function Iteration (VFI) and Policy Function Iteration (PFI) methods to solve the challenging Bellman equation. With a custom class for VFI, I systematically worked through the problem, determining optimal solutions and understanding how economic variables change over time with stochastic elements.
